@@ -1,0 +1,14 @@
+# Ultra-Accurate Face Attendance System
+# Install with: pip install -r requirements.txt
+
+# Core libraries
+opencv-python==4.8.1.78
+numpy==1.26.4
+pillow==10.0.0
+
+# Deep Learning for Ultra-Accuracy (can distinguish twins!)
+deepface==0.0.79
+tensorflow==2.15.0
+
+# Note: First install will download AI models (~200MB)
+# This is normal and only happens once
